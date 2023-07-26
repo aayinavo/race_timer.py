@@ -17,3 +17,4 @@ end_time = time.time()
 race_time = end_time - start_time
 
 print("Ваше время: ", round(race_time, 2), "секунд.")
+.
